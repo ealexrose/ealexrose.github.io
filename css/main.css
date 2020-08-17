@@ -4,7 +4,7 @@
 /* Mobile Layout: 320px */
 /* Wide Mobile Layout: 480px */
 /* =================================== */
-/*  Basic Style 
+/*  Basic Style
 /* =================================== */
 ::-moz-selection {
   /* Code for Firefox */
@@ -744,7 +744,7 @@ td, th {
       padding: 60px 0; } }
 
 .section-gap-bottom-90 {
-  padding-bottom: 130px; }
+  padding-bottom: 50px; }
   @media (max-width: 1024px) {
     .section-gap-bottom-90 {
       padding-bottom: 30px; } }
